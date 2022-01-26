@@ -1,0 +1,2 @@
+C:\Users\Ameer\anaconda3
+C:\Users\Ameer\anaconda3\envs\master
